@@ -54,7 +54,7 @@ echo "Total VPN Activas = ${REG}"
 #Mostramos cada Pais
 
 
-  echo "${ADATA[$i]}" | grep -q "CountryShort"
+ echo "${ADATA[$i]}" | grep -q "CountryShort"
   
 
 
